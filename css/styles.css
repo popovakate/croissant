@@ -1,3 +1,11 @@
+:root {
+  --main-color: #ffebbb;
+}
+
 body {
-  background-color: #ffebbb;
+  background-color: var(--main-color);
+}
+
+footer {
+  text-align: center;
 }
