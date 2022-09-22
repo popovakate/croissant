@@ -13,3 +13,7 @@ footer {
 h1 {
   margin-top: 40px;
 }
+
+footer a {
+  margin: 0px 10px;
+}
